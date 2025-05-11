@@ -1,5 +1,5 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
-# 💫 About Me:
+# 💫 Hi, I'm Mayuri:
 🚀 DevOps Enthusiast | AWS | Terraform | CI/CD | Cloud Automation<br><br>Motivated Computer Science graduate passionate about cloud engineering and infrastructure as code. Skilled in AWS, Terraform, and CI/CD pipelines, with hands-on experience automating cloud infrastructure and optimizing deployment workflows. Eager to contribute to scalable, resilient systems and drive efficient software delivery in a dynamic DevOps environment.
 
 
