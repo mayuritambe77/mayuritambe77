@@ -1,7 +1,7 @@
 # 💫 Hi, I'm Mayuri:
 🚀 DevOps Enthusiast | AWS | Terraform | CI/CD | Cloud Automation<br><br>Motivated Computer Science graduate passionate about cloud engineering and infrastructure as code. Skilled in AWS, Terraform, and CI/CD pipelines, with hands-on experience automating cloud infrastructure and optimizing deployment workflows. Eager to contribute to scalable, resilient systems and drive efficient software delivery in a dynamic DevOps environment.
 
-<img src="banner.png" alt="GitHub Banner" width="100%" />
+<img src="banner.jpg" alt="GitHub Banner" width="100%" />
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_mayu_.77) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mayuri-tambe-69736b27b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mayuritambe777@gmail.com) 
